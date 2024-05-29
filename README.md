@@ -1,1 +1,1 @@
-<img src='yo.jpg' width=1000 height=500/>
+<img src='yo.jpg' width=600 height=500/>
