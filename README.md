@@ -1,2 +1,2 @@
 <img src='yo.jpg' width=500 height=500/>
-<img src='animatedkitty.svg'/>
+<img src='animatedkitty.svg'width=500 height=500//>
