@@ -1,1 +1,1 @@
-<img src='animatedkitty.svg'width=300/>
+<img src='animatedkitty.svg' width=300/>
