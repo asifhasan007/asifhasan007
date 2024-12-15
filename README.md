@@ -1,2 +1,2 @@
 <img src='animatedkitty.svg' width=300/>
-![alt text](chillguy.jpg)
+<img src='chillguy.jpg.svg' width=300/>
