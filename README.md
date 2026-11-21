@@ -1,30 +1,17 @@
-Hi there, I'm an AI and Machine Learning Engineer! 👋 \
+# Hi, I'm Md Asif Hasan 
 
-I'm a Computer Science graduate passionate about building intelligent, real-world applications. My focus is on backend development for enterprise-level AI systems, where I design and deploy scalable solutions.
+I'm a Master of Engineering student in Software Engineering at Ontario Tech University, with a background in Python backend development, AI applications, and end-to-end software development.
 
-🌱 I’m currently working on:
+I've worked on client-facing applications involving REST APIs, database integration, AI agents, and automation workflows. My experience includes independently developing software products at Pondit and YSharp Consulting, alongside research in deep learning and computer vision.
 
-Developing an AI-powered Quiz Generator using Python, Flask, and various Large Language Models (LLMs), including local models and the ChatGPT API.
+**My main interests:**
+- Backend engineering and system design
+- Python-based applications and APIs
+- Applied AI, LLMs, and AI agents
+- Software testing, reliability, and developer tools
 
-Enhancing BSmartPDF, a document interaction tool, by integrating local LLMs and adding multi-language support.
+**Currently developing:** ReviewForge, a Python-based AI code review and bug detection project.
 
-Building robust backend systems for document question-answering and other intelligent applications.
+**Technical stack:** Python, SQL, FastAPI, Flask, REST APIs, MySQL, Docker, Git, LangChain, LangGraph, and n8n.
 
-💻 My Tech Stack:
-
-Languages: Python, SQL
-
-Frameworks & Libraries: LangChain, Flask, PyTorch, Django
-
-Tools & Platforms: Docker, PostgreSQL, Git
-
-AI/ML: Deep Learning, Natural Language Processing (NLP), Computer Vision, Retrieval-Augmented Generation (RAG)
-
-🔭 My Interests:
-
-Applying deep learning techniques to practical problems in computer vision and NLP.
-
-Exploring the capabilities of both API-based and local LLMs to create innovative applications.
-
-Building full-stack projects that bridge the gap between powerful backend systems and interactive user experiences.
-
+I'm interested in Summer 2027 software engineering and applied AI internship opportunities.
